@@ -1,2 +1,3 @@
 # Learn-Python
-# Test
+In this repositories, I will show how to 
+
